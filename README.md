@@ -1,6 +1,6 @@
 # sapire.github.io
 
-Live demo at https://jekyll-theme-minimal-resume.netlify.com/
+Live demo at https://sapire.github.io/
 
 # Quick Setup
 
