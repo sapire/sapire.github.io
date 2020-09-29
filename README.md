@@ -29,14 +29,6 @@ email: mauriurraco@gmail.com
 
 > Don't forget to change your URL before you deploy your site!
 
-# Color and Particle Customization
-
-- Color Customization
-  - Edit the `.sass` variables
-- Particle Customization
-  - Edit the json data in particle function in `app.js`
-  - Refer to `Particle.js` for help
-
 # Content
 
 You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
