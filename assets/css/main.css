@@ -3673,9 +3673,9 @@ body {
     padding: 0;
     font-size: 100%;
     line-height: 1.5;
-    color: rgb(252, 246, 197);
+    color: #fff;
     font-family: "Antic Slab", serif;
-    background: #232b36;
+    background: #191a1d;
 }
 article,
 aside,
