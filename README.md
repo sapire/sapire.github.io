@@ -21,10 +21,10 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 
 ## User settings
 ```yml
-username: Lorem Ipsum
+username: Sapir Ezra
 user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+user_title: Sapir Ezra
+email: sapire88@gmail.com
 ```
 
 > Don't forget to change your URL before you deploy your site!
